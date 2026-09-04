@@ -1,0 +1,8 @@
+interface:
+  display_name: "Editorial Cover"
+  short_description: "Create refined editorial cover visuals."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  default_prompt: "Use $editorial-cover to turn this topic into a refined editorial magazine cover prompt."
+policy:
+  allow_implicit_invocation: true
