@@ -1,5 +1,8 @@
 # Editorial Cover Skill
-
+<p>
+  <img src="./readme-hero-1.png" width="49%" />
+  <img src="./readme-hero-2.png" width="49%" />
+</p>
 一个用于生成高级杂志封面、社媒主图和电商 editorial 主视觉提示词的 skill。
 
 它会把主题、人物、产品、品牌概念、场景或上传图片，转译成有观点、有视觉隐喻、有真实摄影感、有强 typography 和大面积留白的封面提示词。
